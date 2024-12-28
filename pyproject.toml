@@ -1,0 +1,7 @@
+[project]
+name = "genesis-script-generator"
+version = "0.1.0"
+description = "Genesis script-generator component"
+dependencies = [
+    "genesis-base",
+]
